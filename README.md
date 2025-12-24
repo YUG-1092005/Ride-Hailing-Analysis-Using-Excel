@@ -45,7 +45,7 @@ https://www.kaggle.com/datasets/hetmengar/ola-and-uber-ride-booking-and-cancella
 - **Revenue Loss by Drivers**
 - **Incomplete Ride Percentage**
 
-> 📌 Multiple supporting KPIs are used to strengthen insights and executive decision-making.
+> 📌 Multiple supporting KPIs are used to strengthen insights and executive decision-making which can be seen in report.
 
 ---
 
@@ -56,8 +56,16 @@ https://www.kaggle.com/datasets/hetmengar/ola-and-uber-ride-booking-and-cancella
 - **Revenue loss analysis** presented in ₹ Lakhs for clarity
 - **Interactive filters** using slicers and timelines
 
+> 📌All the related things in dashboard is **dynamic**.
+
 📄 **Dashboard Report (PDF):**  
 https://drive.google.com/file/d/1J5BljIpHv8SfjltScy3WTxoaaRZ6-hp-/view
+
+📄 **Summary Dashboard** 
+<img width="1855" height="917" alt="image" src="https://github.com/user-attachments/assets/75f37af8-d5ac-48f0-b0bf-2cecac73d8ff" />
+
+📄 **Overview Dashboard** 
+<img width="1853" height="912" alt="image" src="https://github.com/user-attachments/assets/ca07db53-482a-4ea6-8b96-dd0ebd8d8859" />
 
 ---
 
@@ -81,3 +89,7 @@ https://drive.google.com/file/d/1J5BljIpHv8SfjltScy3WTxoaaRZ6-hp-/view
  ┣ 📊 Overview_Dashboard.xlsx           → Booking, cancellation & revenue analysis
  ┣ 📊 Pivot_Tables.xlsx                 → Supporting pivot tables & calculations
  ┗ 📄 README.md                         → Project documentation
+
+---
+
+> 📌 **Note:** This project is created **solely for learning data analysis** to enhance data analysis and dashboarding skills.
