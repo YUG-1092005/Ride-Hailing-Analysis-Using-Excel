@@ -92,4 +92,4 @@ https://drive.google.com/file/d/1J5BljIpHv8SfjltScy3WTxoaaRZ6-hp-/view
 
 ---
 
-> 📌 **Note:** This project is created **solely for learning data analysis** to enhance data analysis and dashboarding skills.
+> 📌 Note: This project is created solely for learning data analysis to enhance data analysis and dashboarding skills.
