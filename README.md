@@ -83,8 +83,8 @@ https://drive.google.com/file/d/1J5BljIpHv8SfjltScy3WTxoaaRZ6-hp-/view
 
 ## 📁 Project Structure
 ```text
-📦 Ride-Hailing-Analysis-Using-Excel
- ┣ 📊 Ride_Hailing_Raw_Data.xlsx        → Raw dataset
+📦 SELF-PROJECT-1.xlsx
+ ┣ 📊 Data.xlsx                         → Raw dataset
  ┣ 📊 Summary_Dashboard.xlsx            → High-level executive KPIs
  ┣ 📊 Overview_Dashboard.xlsx           → Booking, cancellation & revenue analysis
  ┣ 📊 Pivot_Tables.xlsx                 → Supporting pivot tables & calculations
